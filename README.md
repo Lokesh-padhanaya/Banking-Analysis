@@ -5,4 +5,4 @@ Tools & Technologies
 - Jupyter Notebook
 - Power BI / Tableau (for dashboard, if used)
 - Excel (for data preprocessing, if used)
-- The dashboard provides financial institutions with a data-driven overview to support credit decisions. It helps minimize risk by clearly identifying high-risk customers and offering insights into customer behavior.
+The dashboard provides financial institutions with a data-driven overview to support credit decisions. It helps minimize risk by clearly identifying high-risk customers and offering insights into customer behavior.
